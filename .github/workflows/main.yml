@@ -2,7 +2,7 @@ name: Snk Workflow
 on:
   push:
     branches:
-      - main  # Aqui você pode definir a branch que deseja acionar o workflow
+      - main
 
 jobs:
   build:
@@ -20,10 +20,10 @@ jobs:
           sudo mv snk-linux-amd64 /usr/local/bin/snk
 
       - name: Login to Snk
-        run: snk auth login --username devworkleo --password ${{ secrets.SNK_TOKEN }}
-        # Certifique-se de que você definiu o token de autenticação 'SNK_TOKEN' como um segredo no seu repositório.
+        run: snk auth login --token ${{ secrets.SNK_TOKEN }}
+        # Certifique-se de que você definiu o token de acesso pessoal 'SNK_TOKEN' como um segredo no seu repositório.
         # Acesse "Settings" -> "Secrets" -> "New repository secret" para adicioná-lo.
 
       - name: Deploy using Snk
         run: snk deploy --app YourAppName --env production
-        # Substitua 'YourAppName' pelo nome da aplicação que você quer implantar.
+        # Substitua 'YourAppName' pelo nome da aplicação 

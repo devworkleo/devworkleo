@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando em **Edler Consultoria Educacional**
 - 🌱 Atualmente estou aprendendo **Laravel**
-- 👯 Estou procurando colaborar em **Projetos React, Vue, Angular, Node**
+- 👯 Estou procurando colaborar com projetos em **React, Vue, Angular, Node**
 - 📫 Como entrar em contato comigo: **[(85) 9 8570-2189](https://wa.me/+5585985702189) ou [leonrworker@gmail.com](mailto:leonrworker@gmail.com)** 
 - ⚡ Curiosidade: Gosto de aprender novas tecnologias
 - 📚 Linguagens, Frameworks e Banco de Dados:<br><br>

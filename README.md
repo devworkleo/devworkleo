@@ -22,7 +22,7 @@
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   
-  <div>
+  <div style="width:100%; display: flex;">
     <a href="https://github.com/devworkleo" style="display: flex; align-items: flex-start; gap: 10px">
       <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devworkleo&layout=compact&langs_count=7&theme=dracula"/>
       <img width="50%" src="https://github-readme-stats.vercel.app/api?username=devworkleo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

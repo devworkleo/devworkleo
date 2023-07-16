@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo **Laravel**
 - 👯 Estou procurando colaborar com projetos em **React, Vue, Angular, Node**
 - 📫 Como entrar em contato comigo: **[(85) 9 8570-2189](https://wa.me/+5585985702189) ou [leonrworker@gmail.com](mailto:leonrworker@gmail.com)** 
-- ⚡ Curiosidade: Gosto de aprender novas tecnologias
+- ⚡ Curiosidade: Amo desenvolver projetos em React JS e gosto de aprender novas tecnologias
 - 📚 Linguagens, Frameworks e Banco de Dados:<br><br>
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)

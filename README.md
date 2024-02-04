@@ -1,6 +1,6 @@
 ### Olá, meu nome é Léo e sou um desenvolvedor de sistemas
 
-- 🔭 Atualmente presto serviço para **Edler Consultoria Educacional**
+- 🔭 Atualmente presto serviço para **Grupo Carmel Hotéis**
 - 🌱 Atualmente estou aprendendo **Laravel**
 - 👯 Estou procurando colaborar com projetos em **React, Vue, Angular, Node**
 - 📫 Como entrar em contato comigo: **[(85) 9 8570-2189](https://wa.me/+5585985702189) ou [leonrworker@gmail.com](mailto:leonrworker@gmail.com)** 
